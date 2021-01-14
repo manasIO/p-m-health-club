@@ -11,8 +11,8 @@
            
          <!-- <form class="" action="patient_search.php" method="post">  </form> -->
           
-                <div class="card-body">
-                            <table class="table table-hover">
+                <div class="">
+                            <table class="">
                                             <thead>
                                             <tr>
                                                 <th>Program ID </th>
