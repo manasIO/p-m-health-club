@@ -2,13 +2,14 @@
 <?php include("function.php");?>
 <html>
 <head>
-	<title>Payments</title>
+    <title>Payments</title>
+    <link rel="stylesheet" href="./css/table.css">
 </head>
    <body>
-         <div class="">
-             <div class=""><h3>Payment Details</h3></div>
-                 <div class="">       
-                        <table class="">   
+         <div>
+             <div><h3>Payment Details</h3></div>
+                 <div>       
+                        <table>   
                           <thead>
                                 <tr>
                                     <th>Payment ID </th>

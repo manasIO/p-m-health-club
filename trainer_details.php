@@ -3,6 +3,7 @@
     <html>
     <head>
         <title>Members</title>
+        <link rel="stylesheet" href="./css/table.css">
     </head>
     <body>
       

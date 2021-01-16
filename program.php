@@ -2,7 +2,8 @@
 <?php include("function.php");?>
 <html>
 <head>
-	<title>Members details</title>
+    <title>Members details</title>
+    <link rel="stylesheet" href="./css/table.css">
 </head>
 <body>
 	 

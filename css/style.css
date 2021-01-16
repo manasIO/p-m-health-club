@@ -195,6 +195,9 @@ nav ul li a{
     padding: 0 20px;
     text-align: initial;
 }
+.feature-text {
+    margin-bottom: 10px;
+}
 
 @media screen and (max-width:770px){
     .title-text h1{
@@ -298,21 +301,8 @@ hr{
 
 /* services */
 
-/*  registration  */
+/* Registration */
 
-#registration{
-    width: 100%;
-    padding: 70px 0;
-    background: #efefef;
-}
-
-.registration-box{
-    width: 60%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    margin: auto;
-}
 
 /*  admin page  */
 
@@ -367,3 +357,4 @@ thead, tr, tbody{
     vertical-align:baseline;
     background:transparent;
 }
+
